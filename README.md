@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen Antenor</h1>
-<h3 align="center">Student at UVCE</h3>
+<h3 align="center">Student from University Visvesvaraya College of Engineering | AI & ML Enthusiastic | Aspiring Software & ML Engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenantenor&label=Profile%20views&color=0e75b6&style=flat" alt="praveenantenor" /> </p>
@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **antenorpraveen@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
