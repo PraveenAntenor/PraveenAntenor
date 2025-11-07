@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenantenor&label=Profile%20views&color=0e75b6&style=flat" alt="praveenantenor" /> </p>
 
-
-
+- 🌱 I’m learning MLOps and Model Deployment
+- 👯 I’m looking to collaborate on AI/ML and Data Science Projects
 - 📫 How to reach me **praveenantenor@gmail.com**
 
 
