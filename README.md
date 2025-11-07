@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Frameworks, courses etc**
 
-- 📫 How to reach me **antenorpraveen@gmail.com**
+- 📫 How to reach me **praveenantenor@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
