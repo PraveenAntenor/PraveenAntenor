@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenantenor&label=Profile%20views&color=0e75b6&style=flat" alt="praveenantenor" /> </p>
 
-- 🌱 I’m currently learning **Frameworks, courses etc**
+
 
 - 📫 How to reach me **praveenantenor@gmail.com**
 
