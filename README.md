@@ -20,7 +20,7 @@ Passionate about building scalable software solutions, intelligent applications,
 * 🔭 Interested in **Software Engineering, AI/ML, Backend Development, and Cloud Computing**
 * 👯 Open to collaborating on **Software Development and AI/ML Projects**
 * 📚 Exploring scalable applications and modern development practices
-* 📫 Email: **[praveenantenor@gmail.com](mailto:praveenantenor@gmail.com)**
+* 📫 Email: **[antenorpraveen@gmail.com](mailto:antenorpraveen@gmail.com)**
 * ⚡ Building solutions that solve real-world problems through technology
 
 ---
